@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+wp-config.php
+node_modules/
+vendor/
+*.log
+*.zip
+*.pdf
+*.sql
+/private/
+/uploads/
+/backups/
+/exports/
+.DS_Store
